@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { FaFacebookSquare, FaTwitter, FaLinkedin } from "react-icons/fa"; // Importing React Icons for social media
+import { FaFacebookSquare, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -16,7 +16,7 @@ const Footer = () => {
           />
         </div>
 
-        {/* Footer Content */}
+        {/* Footer Content start from here */}
         <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-12 relative z-10">
           {/* Footer Sections start.... */}
           <div className="bg-opacity-60 shadow-xl rounded-lg p-6 ">

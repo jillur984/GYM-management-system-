@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="relative w-full h-[500px]">
       <Image
-        src="/bg_gym.jpg" // Path from the public folder
+        src="/bg_gym.jpg"
         alt="Gym Background"
         width={500}
         height={300}

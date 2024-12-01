@@ -5,10 +5,10 @@ const About = () => {
   return (
     <div className="bg-gray-900 py-20 px-6">
       <div className="w-7xl md:w-8xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
-        {/* Image Section */}
+        {/* Image Section here */}
         <div className="flex-1 relative rounded-xl shadow-xl overflow-hidden">
           <Image
-            src="/about.png.webp" // Path from the public folder
+            src="/about.png.webp"
             alt="Gym Background"
             width={500}
             height={300}
@@ -16,7 +16,7 @@ const About = () => {
           />
         </div>
 
-        {/* Content Section */}
+        {/* Content Section work this div */}
         <div className="flex-1 text-center md:text-left space-y-8">
           <h1 className="text-2xl bg-white md:text-3xl text-center font-extrabold p-2 hover:bg-black hover:text-white text-black">
             ---About Our Gym

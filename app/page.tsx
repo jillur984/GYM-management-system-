@@ -1,27 +1,3 @@
-// import Gallery from "./components/Gallery";
-// import Hero from "./components/Hero";
-// import Schedule from "./components/Schedule";
-
-// import Trainer from "./components/Trainer";
-// import About from "./pages/about/page";
-// import Contact from "./pages/contact/page";
-// import Service from "./pages/service/page";
-// const Homepage = () => {
-//   return (
-//     <div>
-//       <Hero />
-//       <About />
-//       <Service />
-//       <Gallery />
-//       <Trainer />
-//       <Schedule />
-//       <Contact />
-//     </div>
-//   );
-// };
-
-// export default Homepage;
-
 "use client";
 
 import { useState, useEffect } from "react";
