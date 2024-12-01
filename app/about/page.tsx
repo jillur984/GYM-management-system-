@@ -34,7 +34,7 @@ const About = () => {
           </p>
           <li>
             <Link
-              href="/pages/register"
+              href="/register"
               className="block text-xl md:text-lg text-black bg-gradient-to-r  from-pink-600 to-purple-600 py-3 px-6 rounded-lg shadow-lg hover:scale-110 hover:shadow-2xl transition-transform"
             >
               <span className="font-semibold justify-center text-2xl flex mx-auto">

@@ -9,7 +9,7 @@ export default function Login() {
           <form className="space-y-4">
             <div className="form-control">
               <label className="label">
-                <span className="label-text text-gray-700">Email</span>
+                <span className="label-text text-gray-700">Email :</span>
               </label>
               <input
                 type="email"
@@ -20,7 +20,7 @@ export default function Login() {
             </div>
             <div className="form-control">
               <label className="label">
-                <span className="label-text text-gray-700">Password</span>
+                <span className="label-text text-gray-700">Password :</span>
               </label>
               <input
                 type="password"
@@ -38,7 +38,7 @@ export default function Login() {
           </form>
           <p className="text-sm text-center mt-4 text-gray-500">
             Don't have an account?{" "}
-            <a href="/pages/register" className="text-blue-500 hover:underline">
+            <a href="/register" className="text-blue-500 hover:underline">
               Register
             </a>
           </p>

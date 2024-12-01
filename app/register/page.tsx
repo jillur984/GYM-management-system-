@@ -9,7 +9,7 @@ export default async function Register() {
           {/* Full Name */}
           <div className="form-control">
             <label className="label">
-              <span className="label-text text-gray-700">Full Name</span>
+              <span className="label-text text-gray-700">Full Name :</span>
             </label>
             <input
               type="text"
@@ -22,7 +22,7 @@ export default async function Register() {
           {/* Email */}
           <div className="form-control">
             <label className="label">
-              <span className="label-text text-gray-700">Email</span>
+              <span className="label-text text-gray-700">Email :</span>
             </label>
             <input
               type="email"
@@ -35,7 +35,7 @@ export default async function Register() {
           {/* Password */}
           <div className="form-control">
             <label className="label">
-              <span className="label-text text-gray-700">Password</span>
+              <span className="label-text text-gray-700">Password :</span>
             </label>
             <input
               type="password"
