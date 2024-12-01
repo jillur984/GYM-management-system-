@@ -55,7 +55,7 @@ export default async function Register() {
         </form>
         <p className="text-sm text-center mt-4 text-gray-500">
           Already have an account?{" "}
-          <a href="/pages/login" className="text-blue-500 hover:underline">
+          <a href="/login" className="text-blue-500 hover:underline">
             Login
           </a>
         </p>

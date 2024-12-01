@@ -80,6 +80,15 @@ const Navbar = () => {
             </li>
             <li>
               <Link
+                href="/alltrainer"
+                className="block text-lg text-white py-2 px-4 hover:bg-yellow-300 hover:text-black rounded-md"
+                onClick={toggleMenu}
+              >
+                Trainer
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/contact"
                 className="block text-lg text-white py-2 px-4 hover:bg-yellow-300 hover:text-black rounded-md"
                 onClick={toggleMenu}
