@@ -1,0 +1,128 @@
+[
+    {
+      "day": "Monday",
+      "classes": [
+        {
+          "classTitle": "Introduction to ZIM Workouts",
+          "classDuration": "2 hours",
+          "classTime": "8:00 AM - 10:00 AM"
+        },
+        {
+          "classTitle": "Strength Training Basics",
+          "classDuration": "1.5 hours",
+          "classTime": "10:30 AM - 12:00 PM"
+        },
+        {
+          "classTitle": "Flexibility & Mobility",
+          "classDuration": "1.5 hours",
+          "classTime": "12:30 PM - 2:00 PM"
+        },
+        {
+          "classTitle": "ZIM Circuit Training",
+          "classDuration": "2 hours",
+          "classTime": "3:00 PM - 5:00 PM"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "classes": [
+        {
+          "classTitle": "Cardio Workouts with ZIM",
+          "classDuration": "2 hours",
+          "classTime": "8:00 AM - 10:00 AM"
+        },
+        {
+          "classTitle": "ZIM Partner Exercises",
+          "classDuration": "1.5 hours",
+          "classTime": "10:30 AM - 12:00 PM"
+        },
+        {
+          "classTitle": "Core Strength Training",
+          "classDuration": "2 hours",
+          "classTime": "1:00 PM - 3:00 PM"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "classes": [
+        {
+          "classTitle": "ZIM Yoga for Recovery",
+          "classDuration": "2 hours",
+          "classTime": "8:00 AM - 10:00 AM"
+        },
+        {
+          "classTitle": "High-Intensity Interval Training",
+          "classDuration": "1.5 hours",
+          "classTime": "10:30 AM - 12:00 PM"
+        },
+        {
+          "classTitle": "ZIM Strength Progression",
+          "classDuration": "2 hours",
+          "classTime": "1:00 PM - 3:00 PM"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "classes": [
+        {
+          "classTitle": "ZIM Functional Training",
+          "classDuration": "2 hours",
+          "classTime": "8:00 AM - 10:00 AM"
+        },
+        {
+          "classTitle": "Cardio & Endurance",
+          "classDuration": "1.5 hours",
+          "classTime": "10:30 AM - 12:00 PM"
+        },
+        {
+          "classTitle": "Strength & Power",
+          "classDuration": "1.5 hours",
+          "classTime": "1:00 PM - 2:30 PM"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "classes": [
+        {
+          "classTitle": "ZIM Team Challenges",
+          "classDuration": "2 hours",
+          "classTime": "8:00 AM - 10:00 AM"
+        },
+        {
+          "classTitle": "Speed and Agility Training",
+          "classDuration": "1.5 hours",
+          "classTime": "10:30 AM - 12:00 PM"
+        },
+        {
+          "classTitle": "Advanced ZIM Techniques",
+          "classDuration": "2 hours",
+          "classTime": "1:00 PM - 3:00 PM"
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "classes": [
+        {
+          "classTitle": "ZIM Recovery Strategies",
+          "classDuration": "1.5 hours",
+          "classTime": "9:00 AM - 10:30 AM"
+        },
+        {
+          "classTitle": "Mixed Modal Training",
+          "classDuration": "2 hours",
+          "classTime": "11:00 AM - 1:00 PM"
+        },
+        {
+          "classTitle": "ZIM Strength Endurance",
+          "classDuration": "2 hours",
+          "classTime": "2:00 PM - 4:00 PM"
+        }
+      ]
+    }
+  ]
+  
