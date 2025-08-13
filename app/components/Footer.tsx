@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { FaFacebookSquare, FaTwitter, FaLinkedin } from "react-icons/fa";
+import { FaFacebookSquare, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -106,7 +106,7 @@ const Footer = () => {
       <div className="border-t border-white mt-8 pt-4 text-center text-sm text-gray-500">
         <p className="mt-2 text-2xl text-white">
           &copy; {new Date().getFullYear()} GymZone Company. All rights reserved
-          by BdCallingIT.
+          by Jillur Rahman.
         </p>
       </div>
     </footer>
